@@ -126,6 +126,7 @@ A contact person is an employee who is in charge of coordinating the whole proce
 office on behalf of his/her esteemed organization. A contact person has a name, job title, email, mobile
 number(s) and fax <br>
 
-<br>
+<br> 
+
 
 
